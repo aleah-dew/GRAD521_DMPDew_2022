@@ -1,3 +1,14 @@
 #GRAD521_DMPDew_2022
 
-Data Management Plan for the Research
+# Data Management Plan for the Research Project titled "Native and Non-Native Fish Population Status and Response to Climate-Mediated Stressors in a Drought-Sensitive, Endorheic Basin"
+
+The Goose Lake Basin is an endorheic desert valley on the Oregon-California border. Goose Lake Basin’s watersheds drain into Goose Lake – a large alkaline lake that has historically dried up during severe drought years. 
+
+There are several endemic fish species that occupy the Goose Lake Basin: the Goose Lake redband trout, Goose Lake lamprey, Goose Lake tui chub, and Goose Lake sucker. These endemic species coexist with a variety of native (Modoc sucker, speckled dace, Pit roach, pit sculpin) and non-native species (fathead minnow, brown bullhead, white crappie, yellow perch, pumpkinseed, brook trout). 
+
+The Goose Lake Basin is part of Oregon’s closed lakes basin ecosystem – a unique, high desert environment including many wetlands that are critical habitat for native fishes, as well as resident and migratory waterfowl. The wetlands and riparian areas within this ecosystem are highly sensitive to climate-mediated disturbances such as shifting thermal regimes, drought, and wildfire. Increased frequency of these disturbance events may limit the quantity and quality of available habitat for native fishes, while increasing range expansion of non-native fishes may put undue stress on vulnerable species. 
+
+Consistent surveys have not been conducted in many of Oregon’s high desert basins for more than a decade. Updated abundance and distribution estimates will inform state and federal mangers as to the population status of at-risk native fish species, while an assessment of habitat quality will support actionable management outcomes.
+
+This research project will help our agency partners to manage freshwater aquatic resources by assessing habitat quality in a system that has been heavily impacted by climate-mediated drought and wildfire events. By conducting updated fish surveys and relating community structure to specific habitat features, we will help agency partners to manage at-risk species and habitats (Goose Lake lamprey, redband trout, sucker, pit sculpin) as well as manage for invasive species. Furthermore, by monitoring water quality and incorporating these data with existing hydrologic models (e.g. FLOwPER, NorWeST), we will add to our current understanding and response to climate-induced impacts on stream permanence in the northwestern U.S., especially with respect to Oregon’s Great Basin wetlands. The objectives of this research are 1) create a database of water bodies in the Goose Lake Basin and their associated habitat characteristics, 2) conduct updated surveys in the area using traditional (minnow traps, seines, backpack electrofishing) and novel (eDNA) methods, and 3) assess potential changes in population status and habitat quality in the face of invasive species and climate-mediated disturbance. 
+
